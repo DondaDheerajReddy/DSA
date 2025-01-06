@@ -2,7 +2,7 @@
 using namespace std;
 // compare 2 items each and arrang them
 // Pushes the maximum to the last
-// Time complexity => O(n) ; Space Complexity => O(1)
+// Time complexity => O(n)[Best],O(n^2)[Worst(full array is reversed)] ; Space Complexity => O(1)
 
 int main()
 {
