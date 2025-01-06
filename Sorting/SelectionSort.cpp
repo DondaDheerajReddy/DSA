@@ -2,6 +2,7 @@
 using namespace std;
 
 // Selct minimums and swap them
+// Time complexity => O(n^2) ; Space Complexity => O(1)
 
 int main()
 {
